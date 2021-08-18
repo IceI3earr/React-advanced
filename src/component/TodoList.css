@@ -1,0 +1,9 @@
+.todo-list{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.textfield-todo{
+    width: 20em;
+}
